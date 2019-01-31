@@ -4,3 +4,6 @@ List of Recipes
 chiken fry
 pasta 
 rice
+
+anda rice
+biryani
